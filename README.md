@@ -1,4 +1,4 @@
-# echo
+# Écho
 Stetson Hacks
 
 Leave your mark wherever you go with a simple tap of a button at any location in the world
